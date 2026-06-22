@@ -2693,7 +2693,7 @@ msgstr "Bearbeiten: %s"
 #: model:ir.model.fields,field_description:web.field_base_document_layout__email
 #: model_terms:ir.ui.view,arch_db:web.login
 msgid "Email"
-msgstr "Benutzer"
+msgstr "Email"
 
 #. module: web
 #. odoo-javascript
